@@ -10,7 +10,9 @@ Load theme in cmus:
 :colorscheme deathmetal
 
 Screenshot macosx:
+
 ![alt text](cmus-deathmetal.png "screenshot")
 
 Screenshot manjaro/terminator:
+
 ![alt text](cmus-deathmetal2.png "screenshot")
