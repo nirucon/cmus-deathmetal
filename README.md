@@ -1,2 +1,2 @@
 # cmus-deathmetal
-Theme for cmus
+Dark color scheme for cmus music player.
