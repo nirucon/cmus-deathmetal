@@ -15,4 +15,4 @@ Screenshot Alacritty with transparency
 
 Screenshot ST no transparency
 
-![alt text](cmus-deathmetal-notrans.png "screenshot")
+![alt text](cmus-deathmetal-notrans2.png "screenshot")
