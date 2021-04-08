@@ -12,7 +12,3 @@ Load theme in cmus:
 Screenshot Alacritty with transparency
 
 ![alt text](cmus-deathmetal-trans.png "screenshot")
-
-Screenshot ST no transparency
-
-![alt text](cmus-deathmetal-notrans.png "screenshot")
