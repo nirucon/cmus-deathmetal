@@ -9,10 +9,10 @@ Example:
 Load theme in cmus:
 :colorscheme deathmetal
 
-Screenshot macosx:
+Screenshot Alacritty with transparency
 
-![alt text](cmus-deathmetal.png "screenshot")
+![alt text](cmus-deathmetal-trans.png "screenshot")
 
-Screenshot manjaro/terminator:
+Screenshot ST no transparency
 
-![alt text](cmus-deathmetal2.png "screenshot")
+![alt text](cmus-deathmetal-notrans.png "screenshot")
